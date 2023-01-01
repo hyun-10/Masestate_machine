@@ -1,4 +1,5 @@
 import streamlit as st
+
 class pages:
   def __init__(self):
     self.pages=[]
