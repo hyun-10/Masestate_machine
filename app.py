@@ -9,8 +9,8 @@ app = pages()
 
 
 
-app.add_page('에스프레소 머신 개념', p1.app)
-app.add_page('에스프레소 머신 설치', p2.app)
-app.add_page('에스프레소 머신 개념', p3.app)
+app.add_page('에스프레소 머신 개념',p1.app)
+app.add_page('에스프레소 머신 설치',p2.app)
+app.add_page('에스프레소 머신 개념',p3.app)
 
 app.run()
