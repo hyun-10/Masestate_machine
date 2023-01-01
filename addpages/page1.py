@@ -1,4 +1,4 @@
 import streamlit as st
 
 def app():
-  st.write("수정중")
+  st.write("개념 수정중")
