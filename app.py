@@ -1,4 +1,5 @@
-import streamilt as st
+
+import streamlit as st
 
 from add_pages import pages
 from addpages import page1 as p1
