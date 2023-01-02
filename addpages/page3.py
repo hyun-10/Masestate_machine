@@ -16,4 +16,5 @@ def app():
   if name == '필터':
     names = st.sidebar.selectbox('자료', ['선택하세요','동파'])
     if names == '동파':
-      freeze and burst_1 = 'db/freeze and burst/filter/freeze and burst_filter_1.jpg'
+      freeze_and_burst_1 = 'db/freeze and burst/filter/freeze and burst_filter_1.jpg'
+      st.image(freeze_and_burst_1,width=300)
