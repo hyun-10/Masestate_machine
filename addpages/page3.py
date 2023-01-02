@@ -5,4 +5,10 @@ def app():
   
   if name == '오버홀':
     overhaul_1 ='db/overhaul/overhaul_1.jpg'
-    st.image(overhaul_1,width=600)
+    overhaul_2 ='db/overhaul/overhaul_2.jpg'
+    overhaul_3 ='db/overhaul/overhaul_3.jpg'
+    overhaul_4 ='db/overhaul/overhaul_4.jpg'
+    st.image(overhaul_1,width=300)
+    st.image(overhaul_2,width=300)
+    st.image(overhaul_3,width=300)
+    st.image(overhaul_4,width=300)
